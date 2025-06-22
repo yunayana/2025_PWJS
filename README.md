@@ -1,6 +1,6 @@
 # 2025_PWJS – Laboratorium z Programowania w językach skryptowych 
 
-To repozytorium zawiera ćwiczenia i projekt zaliczeniowy z przedmiotu **Programowanie w językach skryptowych **.
+To repozytorium zawiera ćwiczenia i projekt zaliczeniowy z przedmiotu **Programowanie w językach skryptowych ** .
 
 Strona prezentowana pod adresem GitHub Pages:
 👉 [https://yunayana.github.io/2025_PWJS/](https://yunayana.github.io/2025_PWJS/)
