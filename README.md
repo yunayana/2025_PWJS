@@ -88,6 +88,7 @@ Aby poprawnie uruchomić stronę **lokalnie**, należy:
 ## Autor
 
 *Yana Trotsenko, Grupa 1, nr indeksu: 21232* 
+
 *Programowanie w językach skryptowych – 2025*
 
 ---
