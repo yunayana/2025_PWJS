@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/2025_PWJS/Lab8/static/css/main.0eb8fd6b.css",
+    "main.js": "/2025_PWJS/Lab8/static/js/main.fdabe0ba.js",
+    "static/js/453.ed3810f9.chunk.js": "/2025_PWJS/Lab8/static/js/453.ed3810f9.chunk.js",
+    "static/media/tokyonight.jpg": "/2025_PWJS/Lab8/static/media/tokyonight.90a6be266a4bb3a460fd.jpg",
+    "index.html": "/2025_PWJS/Lab8/index.html",
+    "main.0eb8fd6b.css.map": "/2025_PWJS/Lab8/static/css/main.0eb8fd6b.css.map",
+    "main.fdabe0ba.js.map": "/2025_PWJS/Lab8/static/js/main.fdabe0ba.js.map",
+    "453.ed3810f9.chunk.js.map": "/2025_PWJS/Lab8/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eb8fd6b.css",
+    "static/js/main.fdabe0ba.js"
+  ]
+}
